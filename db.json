@@ -1,0 +1,26 @@
+{
+  "cultos": [
+    {
+      "id": 1,
+      "ativo": true,
+      "ano": 2024,
+      "nome": "Culto IC CENTRO",
+      "descricao": "Mensagem: ",
+      "localEvento": "IC CENTRO",
+      "periodoEvento": "07 de Julho - CULTO das 10:00",
+      "mesReferencia": "JULHO",
+      "datasEvento": "07",
+      "musicas": [
+        {
+          "numeroCena": 1,
+          "cena": "ABERTURA",
+          "nomeMusica": "PRAISE",
+          "linkMusica": "https://www.dropbox.com/scl/fo/d1b1a6uaz2tl1hcy18cpw/AIkmxJTRdqtgA7W3kfnvvTI?rlkey=xlrcpguk0slu95wiqlp626w3j&st=ajn7zbmu&dl=0",
+          "anotacao": "TOM A",
+          "status": "OK"
+        }
+      ]
+    }
+  ]
+}
+    
