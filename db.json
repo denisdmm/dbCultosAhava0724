@@ -11,36 +11,36 @@
       "mesReferencia": "JULHO",
       "datasEvento": "07",
       "musicas": [
-        {
+          {
           "numeroCena": 1,
           "cena": "ABERTURA",
-          "nomeMusica": "Come to The Table",
-          "linkMusica": "https://www.dropbox.com/scl/fo/wcnjklwakfdxon3xfjipg/AOeVDqFu1JQ-TOpnjr4Ct1w?rlkey=egbnv4slkhb6d6ywnrf5qd0gn&dl=0",
-          "anotacao": "",
-          "status": "OK"
-        },
-         {
-          "numeroCena": 2,
-          "cena": "INTERCESSÃO",
           "nomeMusica": "Our God",
           "linkMusica": "https://www.dropbox.com/scl/fo/o6i883cfczhbqud7ygk3o/ADEwRgYOG0lCxFePUZ5oi84?rlkey=f2tf1zrzyaz6mmlor6bo75fko&st=ytn3wc2n&dl=0",
           "anotacao": "",
           "status": "OK"
         },
         {
-          "numeroCena": 3,
-          "cena": "CEIA",
+          "numeroCena": 2,
+          "cena": "LOUVOR",
           "nomeMusica": "King of my Heart",
           "linkMusica": "https://www.dropbox.com/scl/fo/a96razf47l5ectmq1rf98/AGhEnry-lTRTyRH9q4G1KQg?rlkey=5a1vj9wnahxzjivx0phtps6zj&st=tq5rya5t&dl=0",
           "anotacao": "------",
           "status": "OK"
         },
         {
-          "numeroCena": 4,
-          "cena": "ENCERRAMENTO",
+          "numeroCena": 3,
+          "cena": "DÍZIMOS",
           "nomeMusica": "Holy Forever",
           "linkMusica": "https://www.dropbox.com/scl/fo/lmxh93mkya4c6uo0e6thf/ABNpGMk9YSBwxl-nyn6srMg?rlkey=fqwlplennt5qx917jtxrbnpxp&st=i2j8n8a3&dl=0",
           "anotacao": "------",
+          "status": "OK"
+        }
+        {
+          "numeroCena": 4,
+          "cena": "CEIA DO SENHOR",
+          "nomeMusica": "ARMS OF GRACE ( TOM D )",
+          "linkMusica": "https://www.dropbox.com/scl/fo/b0r2uok81cloyp4ys3am9/h?rlkey=7xsmvz9dweoajfgewcw6uii99&dl=0",
+          "anotacao": "Tom em D",
           "status": "OK"
         }
       ]
