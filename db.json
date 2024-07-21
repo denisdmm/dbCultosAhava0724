@@ -2,13 +2,13 @@
   "cultos": [
     {
       "id": 1,
-      "ativo": false,
+      "ativo": true,
       "ano": 2024,
-      "nome": "Culto IC CENTRO",
+      "nome": "Culto IC SÃO PAULO",
       "descricao": "Mensagem: Ação de Graças",
-      "localEvento": "IC CENTRO",
-      "periodoEvento": "07 de Julho - CULTO das 10:00",
-      "mesReferencia": "JULHO",
+      "localEvento": "IC SÃO PAULO",
+      "periodoEvento": "04 de aGOSTO ",
+      "mesReferencia": "AGOSTO",
       "datasEvento": "07",
       "musicas": [
           {
