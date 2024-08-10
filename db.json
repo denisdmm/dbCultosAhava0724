@@ -2,7 +2,7 @@
   "cultos": [
     {
       "id": 1,
-      "ativo": true,
+      "ativo": false,
       "ano": 2024,
       "nome": "Culto IC SÃO PAULO",
       "descricao": "Mensagem: Ação de Graças",
